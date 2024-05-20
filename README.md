@@ -5,6 +5,7 @@ Currently it is just a hardware repo - software TBC.  I know it is overkill but 
 
 
 - [x] Hardware schematic
+- [x] PCB layed out 
 - [ ] PCB routed
 - [ ] PCB ordered and populated
 - [ ] Software written
