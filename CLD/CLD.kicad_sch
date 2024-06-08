@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "fab17ea4-cf5d-4f98-9b14-c45b1a58fcb3")
 	(paper "A4")
+	(title_block
+		(title "Smart Load Switch")
+		(date "2024-05-20")
+		(rev "V1.0")
+		(company "Jack Baker")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Current:INA180A1"
 			(pin_names
@@ -4214,6 +4220,16 @@
 	)
 	(wire
 		(pts
+			(xy 24.13 142.24) (xy 33.02 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95596d9d-840a-4242-aa88-755ec8e856ce")
+	)
+	(wire
+		(pts
 			(xy 234.95 34.29) (xy 250.19 34.29)
 		)
 		(stroke
@@ -4662,17 +4678,6 @@
 		)
 		(uuid "429bc218-f0ed-42c0-8382-c8e27e978b2c")
 	)
-	(label "Mos_EN"
-		(at 66.04 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4d4ec0d9-b26b-4728-9cc7-b56952913d2b")
-	)
 	(label "JTAG_RST"
 		(at 21.59 127 0)
 		(fields_autoplaced yes)
@@ -4694,6 +4699,17 @@
 			(justify left bottom)
 		)
 		(uuid "5beb2009-9919-4a48-92c4-6293ac713a5c")
+	)
+	(label "Mos_EN"
+		(at 24.13 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5fe5d577-d065-47da-a4b4-e7372fe8458b")
 	)
 	(label "Can_Tx"
 		(at 25.4 139.7 0)
