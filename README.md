@@ -5,7 +5,8 @@ Currently it is just a hardware repo - software TBC.  I know it is overkill but 
 <details open>
 <summary>PCB: </summary>
 
-![image](https://github.com/JackUlbrichBaker/CLD/assets/87808632/fc9ffb2f-c5f4-4c57-9e06-4dee5094f19a)
+![image](https://github.com/JackUlbrichBaker/CLD/assets/87808632/26b66328-8628-4bd1-88ca-3f23660cf4a7)
+
 </details>
 
 <details open>
