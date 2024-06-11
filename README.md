@@ -12,8 +12,8 @@ Currently it is just a hardware repo - software TBC.  I know it is overkill but 
 <details open>
 <summary>Schematic: </summary>
 
+![image](https://github.com/JackUlbrichBaker/CLD/assets/87808632/f7cd0572-6fa6-4ca3-a483-540fd129d50c)
 
-![image](https://github.com/JackUlbrichBaker/CLD/assets/87808632/312c23a9-52f8-42aa-9e7e-1d4cf0356e93)
 </details>
 
 - [x] Hardware schematic
